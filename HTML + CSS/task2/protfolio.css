@@ -27,11 +27,11 @@ button:hover{
     border:3px solid white; ;
 }
 
-.hr-line{
+hr{
     border: 0;
     background: rgb(198, 158, 239);
     height: 0.1rem;
-    margin: 12px 42px 40px 42px;
+    margin: 40px 42px 40px 42px;
     position: relative;
 }
 
@@ -47,6 +47,35 @@ h1{
 
 label{
     font-size: 2rem;
+}
+
+.container{
+    margin: 40px 42px 40px 42px;
+}
+
+ul{
+    list-style: none;
+}
+
+.logo{
+    width: 55px;
+    
+}
+
+.contact{
+    margin: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact a{
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.contact li:hover{
+    filter: drop-shadow(0 0 0.75rem rgb(79, 163, 227));
+    /* box-shadow: 0 0 101px silver; */
 }
 
 /* style section */
@@ -151,7 +180,7 @@ nav ul li a:hover{
     border: 0;
     background: rgb(198, 158, 239);
     height: 0.1rem;
-    margin: 12px 42px 40px 42px;
+    margin: 40px 42px 40px 42px;
     position: relative;
     top: 200px;
 }
@@ -202,9 +231,9 @@ nav ul li a:hover{
     border: 0;
     background: rgb(198, 158, 239);
     height: 0.1rem;
-    margin: 12px 42px 40px 42px;
+    margin: 40px 42px 40px 42px;
     position: relative;
-    top: 25px;
+    /* top: 25px; */
 }
 
 /* projects section */
@@ -306,6 +335,16 @@ nav ul li a:hover{
     border: 3px solid #fff;
 }
 
+
+/* contact me section */
+.hr-line4{
+    border: 0;
+    background: rgb(198, 158, 239);
+    height: 0.1rem;
+    margin: 40px 42px 40px 42px;
+    position: relative;
+    
+}
 
 /* footer section */
 footer{
