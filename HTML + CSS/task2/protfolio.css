@@ -75,7 +75,7 @@ ul{
 
 .contact li:hover{
     filter: drop-shadow(0 0 0.75rem rgb(79, 163, 227));
-    /* box-shadow: 0 0 101px silver; */
+    
 }
 
 /* style section */
