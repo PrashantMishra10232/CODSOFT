@@ -187,7 +187,7 @@ header{
 
 .features-section{
     padding: 80px var(--padding-inline-section) 0;
-    background-image: url(./R.png);
+    background-image: url(images/R.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -261,7 +261,7 @@ header{
     min-height: 300px;
     position: relative;
     background: black;
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./light-bulb-icon-vector.jpg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(images/light-bulb-icon-vector.jpg);
     background-size: cover;
     transition: 0.2s ease-in-out;
 }
@@ -270,7 +270,7 @@ header{
     min-height: 300px;
     position: relative;
     background: black;
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./bbps.png);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(images/bbps.png);
     background-size: cover;
     transition: 0.2s ease-in-out;
 }
@@ -279,7 +279,7 @@ header{
     min-height: 300px;
     position: relative;
     background: black;
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./water.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(images/water.jpeg);
     background-size: cover;
     transition: 0.2s ease-in-out;
 }
@@ -288,7 +288,7 @@ header{
     min-height: 300px;
     position: relative;
     background: black;
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(./pipe\ gas.jpg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)), url(images/pipe\ gas.jpg);
     background-size: cover;
     transition: 0.2s ease-in-out;
 }
